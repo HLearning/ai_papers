@@ -1,3 +1,12 @@
+## Base
+**GIoU**
+- *Date:* 2019/02
+- *Paper:* [Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression](https://arxiv.org/abs/1902.09630)
+
+**DIoU**
+- *Date:* 2019/11
+- *Paper:* [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/abs/1911.08287)
+
 ## Image Classification
 **VGG**
 - *Date:* 2014/09
