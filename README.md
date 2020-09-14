@@ -1,3 +1,16 @@
+## Data
+**CutOut**
+- *Date:* 2017/08
+- *Paper:* [Improved Regularization of Convolutional Neural Networks with Cutout](https://arxiv.org/abs/1708.04552)
+
+**MixUP**
+- *Date:* 2017/10
+- *Paper:* [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412)
+
+**CutMix**
+- *Date:* 2019/05
+- *Paper:* [CutMix: Regularization Strategy to Train Strong Classifierswith Localizable Features](https://arxiv.org/abs/1905.04899)
+
 ## Base
 **GIoU**
 - *Date:* 2019/02
